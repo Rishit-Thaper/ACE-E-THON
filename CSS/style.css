@@ -14,7 +14,7 @@ html {
     position: relative;
     background-size: cover;
     background-position: center;
-    background-image: linear-gradient( rgba(34, 92, 225, 0.52), rgba(17, 48, 175, 0.73)),url('/REST/cover.png');
+    background-image: linear-gradient( rgba(34, 92, 225, 0.52), rgba(17, 48, 175, 0.73)),url('https://github.com/Rishit-Thaper/ACE-E-THON/blob/main/REST/cover.png');
 }
 .ace-logo img{
     border-radius: 10px;
